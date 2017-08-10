@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="977c410d-504a-47df-9adf-0fb4badcc04b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Cube.java" afterPath="$PROJECT_DIR$/src/main/java/Cube.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/CubeTest.java" afterPath="$PROJECT_DIR$/src/test/java/CubeTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -46,8 +46,8 @@
               <folding>
                 <element signature="e#127#128#0" expanded="true" />
                 <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#224#225#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -56,8 +56,8 @@
       <file leaf-file-name="CubeTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/CubeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+            <state relative-caret-position="435">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -374,8 +374,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/test/java/CubeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Cube.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CubeTest.java" />
       </list>
     </option>
   </component>
@@ -831,6 +831,9 @@
     <history-entry file="CubeTest - 2017.08.10 at 07h 43m 26s.xml">
       <configuration name="CubeTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CubeTest_newCube_savesRectangleInformation_Rectangle - 2017.08.10 at 07h 48m 28s.xml">
+      <configuration name="CubeTest.newCube_savesRectangleInformation_Rectangle" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1228" y="25" width="1288" height="1100" extended-state="0" />
@@ -926,16 +929,16 @@
           <folding>
             <element signature="e#127#128#0" expanded="true" />
             <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CubeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        <state relative-caret-position="435">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
