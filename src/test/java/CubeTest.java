@@ -14,5 +14,11 @@ public class CubeTest {
         assertEquals(true, testCube instanceof Cube);
     }
 
+    @Test
+    public void newCube_savesRectangleInformation_Rectangle() throws Exception {
+        Rectangle testRectangle = new Rectangle(30,30);
+        Cube testCube = new Cube(testRectangle);
+        assertEquals(testRectangle, testCube.getFace());
+    }
 
 }

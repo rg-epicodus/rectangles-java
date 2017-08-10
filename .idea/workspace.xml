@@ -54,8 +54,8 @@
       <file leaf-file-name="CubeTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/CubeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="345">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -803,6 +803,9 @@
     <history-entry file="CubeTest - 2017.08.10 at 07h 42m 26s.xml">
       <configuration name="CubeTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CubeTest - 2017.08.10 at 07h 43m 26s.xml">
+      <configuration name="CubeTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1228" y="25" width="1288" height="1100" extended-state="0" />
@@ -904,8 +907,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CubeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="345">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
