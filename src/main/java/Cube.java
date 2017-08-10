@@ -9,5 +9,9 @@ public class Cube {
         face = rectangle;
     }
 
+    public Rectangle getFace() {
+        return face;
+    }
+
 
 }
