@@ -11,7 +11,7 @@ public class CubeTest {
     public void newCube_instantiatesCorrectly() throws Exception {
         Rectangle testRectangle = new Rectangle(30, 30);
         Cube testCube = new Cube(testRectangle);
-        assertEquals(false, testCube instanceof Cube);
+        assertEquals(true, testCube instanceof Cube);
     }
 
 
