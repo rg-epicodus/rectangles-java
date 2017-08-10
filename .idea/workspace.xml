@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="977c410d-504a-47df-9adf-0fb4badcc04b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Cube.java" afterPath="$PROJECT_DIR$/src/main/java/Cube.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/CubeTest.java" afterPath="$PROJECT_DIR$/src/test/java/CubeTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -56,8 +56,8 @@
       <file leaf-file-name="CubeTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/CubeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="36" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+            <state relative-caret-position="510">
+              <caret line="34" column="51" lean-forward="false" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -374,8 +374,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/test/java/CubeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Cube.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CubeTest.java" />
       </list>
     </option>
   </component>
@@ -533,7 +533,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CubeTest.volume_determinesTheVolumeOfTheCube_27000">
+  <component name="RunManager" selected="JUnit.CubeTest">
     <configuration default="false" name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="App" />
@@ -824,9 +824,9 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CubeTest.volume_determinesTheVolumeOfTheCube_27000" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CubeTest.newCube_savesRectangleInformation_Rectangle" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CubeTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CubeTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CubeTest.volume_determinesTheVolumeOfTheCube_27000" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CubeTest.newCube_savesRectangleInformation_Rectangle" />
         <item index="3" class="java.lang.String" itemvalue="Application.App" />
       </list>
     </recent_temporary>
@@ -856,6 +856,9 @@
     </history-entry>
     <history-entry file="CubeTest_newCube_savesRectangleInformation_Rectangle - 2017.08.10 at 07h 48m 28s.xml">
       <configuration name="CubeTest.newCube_savesRectangleInformation_Rectangle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CubeTest_volume_determinesTheVolumeOfTheCube_27000 - 2017.08.10 at 07h 55m 59s.xml">
+      <configuration name="CubeTest.volume_determinesTheVolumeOfTheCube_27000" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -960,8 +963,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CubeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="36" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        <state relative-caret-position="510">
+          <caret line="34" column="51" lean-forward="false" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
