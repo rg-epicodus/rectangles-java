@@ -13,5 +13,9 @@ public class Cube {
         return face;
     }
 
+    public int volume() {
+        int height = face.getHeight();
+        return height * height * height;
+    }
 
 }
